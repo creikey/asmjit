@@ -17,6 +17,12 @@ AsmJit is a complete JIT and AOT assembler for C++ language. It can generate nat
 AsmJit, as the name implies, started as a project that provided JIT code-generation and execution. However, AsmJit evolved and it now contains features that are far beyond the scope of a simple JIT compilation. To keep the library small and lightweight the functionality not strictly related to JIT is provided by a sister project called [asmtk](https://github.com/asmjit/asmtk).
 
 
+This Fork
+---------
+
+Introduces the meson build system so can be used as a subproject
+
+
 Minimal Example
 ---------------
 

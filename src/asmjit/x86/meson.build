@@ -1,0 +1,1 @@
+sources += files('x86assembler.cpp','x86builder.cpp','x86callconv.cpp','x86compiler.cpp','x86features.cpp','x86instapi.cpp','x86instdb.cpp','x86internal.cpp','x86logging.cpp','x86operand.cpp','x86rapass.cpp')
